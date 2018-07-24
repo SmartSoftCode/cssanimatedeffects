@@ -65,3 +65,8 @@ body{
 	    -ms-transform: scale(3,3) rotate(10deg);
 	        transform: scale(3,3) rotate(10deg);
 }
+.footer{
+	text-align:center;
+	padding:10px;
+	background:#eee;
+}
